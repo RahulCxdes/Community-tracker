@@ -1,0 +1,13 @@
+.feed-container {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .issue-card {
+    border-left: 5px solid #007bff;
+  }
+  
+  .issue-card span {
+    color: #555;
+  }
+  

@@ -1,0 +1,14 @@
+.report-container {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  textarea {
+    height: 100px;
+    resize: none;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
